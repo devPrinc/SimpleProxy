@@ -1,0 +1,4 @@
+name: SimpleProxy
+main: simple.proxy.loader.Main
+version: 0.1
+author: Princ_
